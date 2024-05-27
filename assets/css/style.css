@@ -1,0 +1,80 @@
+*{
+margin:0%;
+padding:0%;
+
+background-color: olive;
+
+ 
+}
+
+.Head{
+    margin-left: 25%;
+    margin-right: 25%;
+
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+    justify-content: space-between;
+}
+
+.Head div{
+    align-items:center;
+    display: flex;
+    flex-direction: row;
+    gap: 10px
+}
+
+.Headings{
+margin-top: 5% ;
+margin-left: 25%;
+margin-right: 25%;
+margin-bottom: 5%;
+}
+
+.Headings .div{
+    gap: 20px;
+}
+
+.Middle{
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 5%;
+    gap: 10px;
+}
+.Middle h1{
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+.Middle .list1{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.lm{
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+.lm .lmp{
+    display: flex;
+    flex-direction: row;
+}
+
+.lm img{
+    width:auto;
+}
+
+.lm1{
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    flex-direction: row;
+}
+
